@@ -2,9 +2,9 @@
   "records": [
     {
       "version": "Delta Ultra V1",
-      "code": 61,
+      "code": 60,
       "url": "http://soydaddy.space/#novedades",
-      "changelog": "- Nuevos estilos de burbuja y ticks - Nuevas apariencias de inicio - Personalización absoluta de colores - Más"
+      "changelog": "Base actualizada para FMWA 9.63 - Agregado HOME IOS & SIMPLE - Imagen de alta resolución agregada - Filtro de chat agregado"
     }
   ]
 }
