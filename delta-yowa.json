@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Delta Ultra V2",
-      "code": 61,
+      "version": "Delta V5.0.3",
+      "code": 63,
       "url": "http://soydaddy.space/WhatsApp",
-      "changelog": "HOME CURVE OLD & SIMPLE V2 - Filtrar chats - Fakechat en grupos - Borrar para todos mejorado - Algunas funciones ocultas - Algunas opciones básicas - Algunos bugs y crasheos arreglados - Y muchas más novedades... "
+      "changelog": " - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Vista de cajón de inicio - Acceso a contactos favoritos en Vista de cajón de inicio - Vista de inicio Animación de buscapersonas y desplazable - Vista de historias de carrusel"
     }
   ]
 }
