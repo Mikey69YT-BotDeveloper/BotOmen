@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Delta V5.0.3",
-      "code": 63,
+      "version": "Delta V5.0.3a",
+      "code": 64,
       "url": "http://soydaddy.space/WhatsApp",
-      "changelog": " - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Vista de cajón de inicio - Acceso a contactos favoritos en Vista de cajón de inicio - Vista de inicio Animación de buscapersonas y desplazable - Vista de historias de carrusel"
+      "changelog": "Se han arreglado algunos errores - se han añadido más logos para modificar el WhatsApp"
     }
   ]
 }
